@@ -1,3 +1,5 @@
 Hexy the Hexapod is licensed under a Creative Commons Attribution ShareAlike 3.0 United States License.
 The full terms of this license can be read at:
 http://creativecommons.org/licenses/by-sa/3.0/
+
+This fork contains modifications to the base Hexy design such that it can be constructed with 3mm laser cut ply, and controlled by a raspberry pi zero w. 
